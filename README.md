@@ -21,17 +21,13 @@ Onchain Rabbit streamlines the process of finding on-chain opportunities, making
 
 ## 📈 Getting Started
 
-1. **Visit the Onchain Rabbit Platform**: Head over to our website to start exploring the world of Web3!
+1. **Visit the Onchain Rabbit Platform**: Head over to our UI to start exploring the world of Web3!
 2. **Connect Your Wallet**: Use your preferred Web3 wallet to connect and start discovering on-chain opportunities.
 3. **Explore and Engage**: Browse through various opportunities and engage with tasks and activities that interest you.
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Whether it's suggesting new features, reporting bugs, or improving documentation, your input helps us improve Onchain Rabbit. Feel free to open an issue or submit a pull request on our GitHub repository.
 
-## 📧 Contact
-
-For any questions or support, reach out to us at [support@onchainrabbit.com](mailto:support@onchainrabbit.com).
+built at ETHWarsaw 2024
 
 ---
 
