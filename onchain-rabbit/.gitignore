@@ -2,8 +2,17 @@
 node_modules
 
 packages/hardhat/*
-packages/nextjs/*
-
+packages/nextjs/services
+packages/nextjs/hooks
+packages/nextjs/config.js
+packages/nextjs/forced.config.ts
+packages/nextjs/funnyConfig.jsx
+packages/nextjs/scaffold.config.ts
+packages/nextjs/utils
+packages/nextjs/styles
+packages/nextjs/mockData
+packages/nextjs/api
+packages/nextjs/components/ui
 
 # yarn
 yarn.lock
